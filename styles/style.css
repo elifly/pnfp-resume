@@ -1,0 +1,33 @@
+h1{
+	text-align: center;
+}
+
+body {
+	list-style-position: inside;
+	text-align: center;
+	background: url("https://www.facebook.com/livewalkpty/photos/a.755840264470115.1073741827.755766024477539/755839821136826/?type=3");
+}
+
+ol{
+	list-style: helvetica;
+}
+
+.current {
+	border: 1px solid black;
+}
+
+.circle-pic{
+	border-radius: 100px;
+	border: 1px solid black;
+}
+nav{background-color: gray} 
+.nav-items{display: inline;
+margin: 10px;}
+
+#about {width: 49%;
+display: inline-block;
+border: 1px solid black}
+
+#music {width: 49%;
+	display: inline-block;
+border: 1px solid black;}
